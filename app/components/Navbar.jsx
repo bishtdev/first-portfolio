@@ -28,7 +28,7 @@ const Navbar = () => {
 
   return (
 
-    <nav className="fixed top-0 left-0 right-0 z-10 bg-[#121212] bg-opacity-100">
+    <nav className="fixed top-0 left-0 right-0 z-20 bg-[#121212] bg-opacity-100">
       <div className="flex flex-wrap items-center justify-between mx-auto px-4 py-4">
         <Link href={'/'} className="text-3xl sm:text-5xl font-bold px-3 py-4
          text-white hover:text-transparent bg-clip-text bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500">
