@@ -60,7 +60,7 @@ const AboutSection = () => {
           <p className="text-base md:text-lg ">
             I am a frontend developer with a passion for creating interactive
             and responsive web application. i have experience working with HTML,
-            CSS, JavaScript, React Js, Redux Toolkit, Next Js, handling Api's,
+            CSS, JavaScript, React Js, Redux Toolkit, Next Js, handling Apis,
             Tailwind , Bootstrap and web Designing tools like Figma. I am quick
             learner and i am always looking to expand my knowledge and skill
             set. I am team player and i am excited to work with others to create
